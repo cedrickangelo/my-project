@@ -34,7 +34,7 @@ export default function Home() {
               </div>
             </div>
             <div className="w-full h-full bg-yellow-600">
-              Image Here hdhsjdhsj
+              Image Here 
             </div>
           </div>
         </div>
